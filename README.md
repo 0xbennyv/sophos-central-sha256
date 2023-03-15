@@ -1,0 +1,1 @@
+# sophos-central-sha256
